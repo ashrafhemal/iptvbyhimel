@@ -9,20 +9,6 @@ http://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Colors_Super_%28No_Background
 %29.png",Colors Super
 
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/fbKpnKC6/sab.png",Sony SAB HD
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/vmJqWq80/spal.png",Sony PAL
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/WESkait.png",Star Bharat HD
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/Mkmq0ZXZ/Png-Item-32927.png",Star Plus
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/Mkmq0ZXZ/Png-Item-32927.png",Star Plus HD
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/UYrXUtt.png",MTV HD
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/tb0slPx.png",Zee Anmol
-
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/LX5t0h5N/dngal.png",Dangaal 1
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/RFFMgFx7/d2.png",Dangaal 2
