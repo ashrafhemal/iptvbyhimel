@@ -1,35 +1,109 @@
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://is.gd/ozHK4Q",Sony Tv
-http://38.96.178.201:80/live/SONY/index.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/wjLytmmP/sony-kal.png",Sony Kal
-http://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/g0WmsnWt/colri.png",Colors Rishtey
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Colors_Super_%28No_Background
-%29.png",Colors Super
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/LX5t0h5N/dngal.png",Dangaal 1
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/RFFMgFx7/d2.png",Dangaal 2
-https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/Yqvpq7GZ/ddn.png",DD National
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/CLBCrnYG/dptvlogo-1.png", Desi Play
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png",Zee TV
-http://38.96.178.201:80/live/ZEETV/index.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png",Zee TV
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/zD4Bz4p5/isharat.png",Ishara Tv
-http://epiconvh.akamaized.net/live/ishaara/master_720.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/Hn06cP71/anjaanat.png",Anjan Tv
-http://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/9fXS3N48/Enterr10tv.png",Enter10
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/B9jj79L.png",Colors HD
-
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png",Nazara Tv
-http://epiconvh.akamaized.net/live/nazara/master_720.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/330px-%26TV_2025.svg.png",&TV HD
-http://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.postimg.cc/k7RM6Kff/mbol.png",MBC Bollywood
-http://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTM3U
+#EXTINF:-1 ,Agora TV
+https://agoratv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AWE Encore
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Black News Channel
+https://blacknewschannel-amazon.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,BratTV
+https://brat-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Circle Country Music
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Curiosity Africa
+https://curiosity-africa.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Demand Africa
+https://demandafrica-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Gusto Food TV
+https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Haunt TV
+https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,HNC Sports
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,HuntStream
+https://huntstream-viewlift.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Insight TV
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Jamie Oliver Channel
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Mob Tv
+https://mobtv-lg-eu.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Moviedome
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Moviedome Family
+https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Movies4Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,MST3K
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,OAN
+https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,OAN Plus
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Outside TV
+https://outsidetv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Petclub
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,pocket.watch Kids TV
+https://pocketwatch-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Qwest Jazz Music
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Racing America
+https://racingamerica-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Real Crime TV
+https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Real Wild
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Rush TV
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Salem News Channel
+https://snc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Sensical Kids TV
+https://sensical2up-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Shoutfactory TV
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Tastemade AUS
+https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TD Ameritrade
+https://tdameritrade-amazon.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Thefirst
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Timeline TV
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Trace sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Trace Sportstars
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unbeaten TV
+https://inverleigh-unbeaten-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unbeaten TV
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,UpTV Aspire
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wild Earth TV
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wonder TV
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Yahoo Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Young Hollywood
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ZMG TV
+https://zmg-ruckusfactory.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ZooMoo Kids
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
