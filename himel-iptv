@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.clipartmax.com/png/middle/121-1212170_stylized-h-letter-letter-h-logo-png.png",Himel iPTV
+https://t62.pcloud.com/DQZyvznwV7Z3S7j7K7Z0OQy7ZZE7lz5kZQ5ZZgFJZZ3BxXZgLZeYZy9ZkzZZZQtbIuq4RooYNkjtw1uaaNFQfRka7/v1v0/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga TV
@@ -9,7 +11,7 @@ https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel I
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
@@ -93,6 +95,8 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:-1 group-title="-",SANGSAD TV HD
 http://103.229.254.25:7001/play/a069/index.m3u8
+#EXTINF:-1 group-title="-",MYTV HD
+http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
@@ -125,8 +129,6 @@ http://103.229.254.25:7001/play/a07p/index.m3u8
 http://103.229.254.25:7001/play/a07n/index.m3u8
 #EXTINF:-1 group-title="-",9XM
 http://103.229.254.25:7001/play/a07o/index.m3u8
-#EXTINF:-1 group-title="-",A SportsHD
-http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-1 group-title="-",ARYDigitalAsia HD
 http://103.229.254.25:7001/play/a07w/index.m3u8
 #EXTINF:-1 group-title="-",ARYZindagi
@@ -137,10 +139,6 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 http://103.229.254.25:7001/play/a08c/index.m3u8
 #EXTINF:-1 group-title="-",Best Action
 http://103.229.254.25:7001/play/a088/index.m3u8
-#EXTINF:-1 group-title="-",CINEMA HALL
-http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network - Rs 5.00
-http://103.229.254.25:7001/play/a0cn/index.m3u8
 #EXTINF:-1 group-title="-",Colors Bangla HD - Rs 19.00
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="-",Colors HD - Rs 19.00
@@ -151,10 +149,12 @@ http://103.229.254.25:7001/play/a0du/index.m3u8
 http://103.229.254.25:7001/play/a071/index.m3u8
 #EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
 http://103.229.254.25:7001/play/a03g/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids - Rs 4.00
-http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
 http://103.229.254.25:7001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
+http://103.229.254.25:7001/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00
+http://103.229.254.25:7001/play/a02z/index.m3u8
 #EXTINF:-1 group-title="-",Disney Junior - Rs 4.00
 http://103.229.254.25:7001/play/a09r/index.m3u8
 #EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
@@ -165,22 +165,14 @@ http://103.229.254.25:7001/play/a0ei/index.m3u8
 http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="-",Goldmines Bollywood
 http://103.229.254.25:7001/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00
-http://103.229.254.25:7001/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
-http://103.229.254.25:7001/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",Jalsha Movies HD - Rs 19.00
-http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="-",LotusTV
 http://103.229.254.25:7001/play/a07x/index.m3u8
-#EXTINF:-1 group-title="-",MAX Movie eng
-http://103.229.254.25:7001/play/a0et/index.m3u8
+#EXTINF:-1 group-title="-",Jalsha Movies HD - Rs 19.00
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="-",MTV HD - Rs 2.00
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
 http://103.229.254.25:7001/play/a06g/index.m3u8
-#EXTINF:-1 group-title="-",MYTV HD
-http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 group-title="-",Nick - Rs 7.00
 http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
@@ -243,8 +235,6 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 http://103.229.254.25:7001/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
 http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",Star Pravah HD - Rs 19.00
-http://103.229.254.25:7001/play/a0cm/index.m3u8
 #EXTINF:-1 group-title="-",Star Sport 2
 http://103.229.254.25:7001/play/a06x/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
@@ -257,6 +247,8 @@ http://103.229.254.25:7001/play/a0cp/index.m3u8
 http://103.229.254.25:7001/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 2 Tamil HD - Rs 19.00
 http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="-",A SportsHD
+http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-1 group-title="-",TEN 1
 http://103.229.254.25:7001/play/a07c/index.m3u8
 #EXTINF:-1 group-title="-",TEN 1
