@@ -14,7 +14,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
-http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/DBC_News.png",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelninebd.tv/wp-content/uploads/2025/10/Channel-Nine-Logo.png",Channel 9
