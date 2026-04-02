@@ -151,18 +151,30 @@ http://103.229.254.25:7001/play/a0a1/index.m3u8
 http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
 http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1 group-title="-",Discovery us
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="-",Nat GEo Wild
+http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
 http://103.229.254.25:7001/play/a03h/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_720p/chunks.m3u8
-#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
+#EXTINF:-1 group-title="-",Investigation Discovery
 http://103.229.254.25:7001/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",History TV18
+#EXTINF:-1 group-title="-",History TV 18
 http://103.229.254.25:7001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",History TV 2
+http://185.56.109.253/History2/playlist.m3u8
 #EXTINF:-1 group-title="-",Travelxp HD
 http://103.229.254.25:7001/play/a0cy/index.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="-",Nat Geo
 http://103.229.254.25:7001/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo USA
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="-",DMAX WB
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 group-title="-",SONY BBC EARTH HD
+http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",GOLDMINES MOVIES
 http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="-",Goldmines Bollywood
@@ -185,10 +197,14 @@ http://103.161.153.165:8000/play/a05p/index.m3u8
 http://103.229.254.25:7001/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="-",PIX HD
 http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="-",Sony Movies
+http://185.56.109.253/SonyMovies/playlist.m3u8
+#EXTINF:-1 group-title="-",AXN
+http://185.56.109.253/Axn/playlist.m3u8
+#EXTINF:-1 group-title="-",Rock Entertainment
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 #EXTINF:-1 group-title="-",SET HD
 http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:-1 group-title="-",SONY BBC EARTH HD
-http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",SONY MAX
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 group-title="-",SONY PIX HD
