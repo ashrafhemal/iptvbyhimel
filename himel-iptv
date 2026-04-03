@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.clipartmax.com/png/middle/121-1212170_stylized-h-letter-letter-h-logo-png.png",Himel iPTV
 https://t62.pcloud.com/DQZyvznwV7Z3S7j7K7Z0OQy7ZZE7lz5kZQ5ZZgFJZZ3BxXZgLZeYZy9ZkzZZZQtbIuq4RooYNkjtw1uaaNFQfRka7/v1v0/index.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e1/NTV_HD_logo_2025.png",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
@@ -97,8 +97,6 @@ http://103.229.254.25:7001/play/a05t/index.m3u8
 http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo-300x169.png",BanglaTV
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png",SATV
 http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1920px-Logo_of_My_TV_%28Bangladesh%29.svg.png",MY TV
@@ -167,7 +165,7 @@ http://103.229.254.25:7001/play/a0cy/index.m3u8
 http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1 group-title="-",DMAX WB
 https://d2j2nqgg7bzth.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/f16aab8b-4e30-4b11-9be5-328ff4b353b7/1.m3u8
-#EXTINF:-1 group-title="-"HGTV
+#EXTINF:-1 group-title="-",HGTV
 https://d1tidto9vz737l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/4a125ee0-ab4f-44a7-83a7-84a29139669a/1.m3u8
 #EXTINF:-1 group-title="-",SONY BBC EARTH HD
 http://103.229.254.25:7001/play/a031/index.m3u8
