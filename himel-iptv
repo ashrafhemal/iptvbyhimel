@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.clipartmax.com/png/middle/121-1212170_stylized-h-letter-letter-h-logo-png.png",Himel iPTV
-https://t62.pcloud.com/DQZyvznwV7Z3S7j7K7Z0OQy7ZZE7lz5kZQ5ZZgFJZZ3BxXZgLZeYZy9ZkzZZZQtbIuq4RooYNkjtw1uaaNFQfRka7/v1v0/index.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/k6r5sVXs/photo-2026-04-05-00-27-47.jpg",Himel iPTV
+https://i.imgur.com/fUk2nY1.mp4
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News
@@ -127,7 +127,7 @@ http://103.229.254.25:7001/play/a075/index.m3u8
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="-",Colors Bangla HD
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="-",Sun Bangla
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4fDDSpV/unnamed-removebg-preview.png",Sun Bangla
 http://103.229.254.25:7001/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="-",Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
@@ -177,10 +177,8 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://app24.jagobd.c
 http://103.229.254.25:7001/play/a03c/index.m3u8
 #EXTINF:-1 group-title="-",History TV 18
 http://103.229.254.25:7001/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",Travelxp HD
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/rfm73Y9L/trvlxp.png",Travelxp HD
 http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="-",Nat Geo
-http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1 group-title="-",DMAX WB
 https://d2j2nqgg7bzth.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/f16aab8b-4e30-4b11-9be5-328ff4b353b7/1.m3u8
 #EXTINF:-1 group-title="-",HGTV
@@ -195,35 +193,33 @@ http://103.229.254.25:7001/play/a07k/index.m3u8
 http://103.229.254.25:7001/play/a07l/index.m3u8
 #EXTINF:-1 group-title="-",MTV HD
 http://103.229.254.25:7001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="-",Nick
+#EXTINF:-1 group-title="" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/960px-Nick.png",Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr.
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/f/fe/Nick_Jr._Logo_2023.png",Nick Jr.
 http://103.229.254.25:7001/play/a0di/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png",Discovery Kids-1
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png",Discovery Kids
 http://103.161.153.165:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png",Discovery Kids-2
-http://103.175.242.10:8080/discoverykids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="-",k2 Cartoon WB
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y7Rp3CG6/dfxzw1m-30cee9c2-6473-4b95-b8f4-c6be1d55c4f2.png",k2 Cartoon WB
 https://d1pmpe0hs35ka5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/b6033dff-eb30-4f4e-ad24-a81b355dd79a/1.m3u8
 #EXTINF:-1 group-title="-",Frisbee WB
 https://d6m7lubks416z.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/b7bfc522-c9fa-4b14-8936-4ae86cf47434/1.m3u8
-#EXTINF:-1 group-title="-",Sony SET
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV
 http://103.229.254.25:7001/play/a0eb/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png",Set Max-1
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png",Set Max-2
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png",Set Max-3
 http://103.229.254.25:7001/play/a074/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png",Sony SAB-1
-http://103.229.254.25:7001/play/a09s/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png",Sony SAB-2
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4w3nzGPw/sbfff.png",Sony SAB-1
 http://103.229.254.25:7001/play/a0db/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png",STAR GOLD HD
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4w3nzGPw/sbfff.png",Sony SAB-2
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/DW7pW1r/unnamed.png",STAR GOLD HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="-",B4U KADAK
 http://103.229.254.25:7001/play/a08c/index.m3u8
@@ -245,19 +241,19 @@ http://103.229.254.25:7001/play/a079/index.m3u8
 http://103.229.254.25:7001/play/a09p/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",STAR PLUS-3
 http://103.229.254.25:7001/play/a09z/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.pinimg.com/736x/4b/b4/b8/4bb4b82682d20935305366050d2fe119.jpg",Dangal-1
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/Dangal-2.jpg",Dangal-2
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Myt6Smns/Dangal-TVLogo.png",Dangal-1
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/BHfRq5VK/channels4-profile.jpg",Dangal-2
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png",Nazara 
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://epiconvh.akamaized.net/nazara/master_720.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://planetbollywood.com/wp/wp-content/uploads/2020/08/ZeeBollywood1.jpg",Zee Bollywood
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://212.102.34.8:9080/ZeeBollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/BVLdsxcx/zeeb.png",Zee Bollywood
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://212.102.34.8:9080/ZeeBollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://storage.googleapis.com/impact-news-photo/news-photo/6752.SG-upload.jpg",Star Gold 2
 http://103.229.254.25:7001/play/a0df/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://storage.googleapis.com/impact-news-photo/news-photo/6752.SG-upload.jpg",Star Gold 2 HD
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/LXsZkk99/trgl2.png",Star Gold 2 HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg",Star Gold Romance
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/hRY7572Y/stgolr.png",Star Gold Romance
 http://103.229.254.25:7001/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
