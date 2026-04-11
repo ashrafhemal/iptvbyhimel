@@ -10,8 +10,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg",NTV Europe
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",Rtv
-http://103.229.254.25:7001/play/a068/index.m3u8
-*https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1/mono.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png",BanglaVision-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://admin.atnbangla.tv/public/storage/upload/conf/ahk3rbQeyYy29Xmaco8nmEzpkoPFDrUNOHjBAHol.png",ATN Bangla-1
@@ -146,18 +145,24 @@ http://103.229.254.25:7001/play/a09v/index.m3u8
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.smartads.in/images/product/television/9X-Jalwa.png",9X JALWA
 https://epiconvh.akamaized.net/9xJalwa/master_720.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg",9X Jhakaas
-http://103.229.254.25:7001/play/a07p/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/tpqq4D1x/gdjfdhgj.jpg",9X Jhakaas
+https://cdn-3.pishow.tv/live/6/6_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/9xtashan-1.png",9X TASHAN
-http://longstream-06.ajaah.com/PlayBoxTV/9XTashan/playlist.m3u8
+https://cdn-2.pishow.tv/live/1613/1613_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 https://epiconvh.akamaized.net/9XM/master_720.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",B4U Music
+https://cdn-2.pishow.tv/live/415/415_1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/30/1/mtv-hd-logo-png_seeklogo-305578.png",MTV HD
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Sangeet_Bangla_logo_2021_with_slogan.png",Sangeet Bangla
-http://103.229.254.25:7001/play/a07m/index.m3u8
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/488-4888540_8xm-logo-png-transparent-png.png",8XM
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/CpDqY2h2/FDGJFDJH.png",zOOM
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
 #EXTINF:-1 group-title="-",ARYDigitalAsia HD
 http://103.229.254.25:7001/play/a07w/index.m3u8
 #EXTINF:-1 group-title="-",ARYZindagi
@@ -169,7 +174,7 @@ http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-500x281.png",Zee TV
 http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery HD
-http://103.229.254.25:7001/play/a03g/index.m3u8
+*http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery WB
 https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/a69858bd-2098-4f0c-9af4-1fa3acba07fb/0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://toucanrescueranch.org/wp-content/uploads/2025/02/Nat_Geo_Wild_logo-1024x368.png",Nat GEo Wild
@@ -209,9 +214,9 @@ http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/tv-web-providers/Outsude%20TV.png",Outside TV
 https://outsidetv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি
-http://103.229.254.25:7001/play/a05k/index.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://103.229.254.25:7001/play/a05k/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick Hindi
-http://103.229.254.25:7001/play/a0cq/index.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/f/fe/Nick_Jr._Logo_2023.png",Nick Jr.
 http://103.229.254.25:7001/play/a0di/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4wk035nM/djhfgff.png",Discovery Kids
@@ -250,11 +255,14 @@ http://103.229.254.25:7001/play/a09s/index.m3u8
 http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
 *http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.goldmines.co.in/assets/img/sites/s3.jpg",GOLDMINES MOVIES
-http://103.229.254.25:7001/play/a07k/index.m3u8
+https://cdn-2.pishow.tv/live/1461/1461_2.m3u8
+*http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.goldmines.co.in/assets/img/sites/s2.jpg",Goldmines Bollywood
 http://103.229.254.25:7001/play/a07l/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/1460_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg",B4U kadak
-http://103.229.254.25:7001/play/a08c/index.m3u8
+https://cdn-2.pishow.tv/live/227/227_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://w7.pngwing.com/pngs/648/291/png-transparent-star-movies-television-channel-fox-movies-logo-star-movie-television-text-film-thumbnail.png",STAR Movies HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/9k2XcRwg/pixgghhjjhj.png",,SONY PIX
