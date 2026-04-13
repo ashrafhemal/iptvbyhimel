@@ -236,24 +236,6 @@ https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/fVk1dPHw/dghfdhgdhg.jpg",Sensical Kids
 https://sensical2up-oando.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/500px-Nicktoons_Logo_2023.svg.png",Nicktoons
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://212.102.60.231/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr.
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://1tv41.icu:8080/Y06DNq/295733/9807
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/500px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://1tv41.icu:8080/Y06DNq/295733/75621
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/500px-2015_Disney_XD_logo.svg.png",Disney XD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true",Disney JR
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130091
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/500px-Boomerang_2014_logo.svg.png",Boomerang
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Discovery_Family_Channel_%28DFC%29.png/500px-Discovery_Family_Channel_%28DFC%29.png",Discovery Family Channel
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://1tv41.icu:8080/live/Y06DNq/295733/10538.rtmp
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network-Hindi
 http://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network HD+
@@ -264,6 +246,8 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 https://d1pmpe0hs35ka5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/b6033dff-eb30-4f4e-ad24-a81b355dd79a/1.m3u8
 #EXTINF:-1 group-title="-",Frisbee WB
 https://d6m7lubks416z.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/b7bfc522-c9fa-4b14-8936-4ae86cf47434/1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.nicepng.com/png/full/205-2058740_boomerang-png.png",Boomerang
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-1
 http://103.229.254.25:7001/play/a0eb/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
