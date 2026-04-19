@@ -143,8 +143,8 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4b/Colors_Bangla_HD_with_slogan_%282021%29.png",Colors Bangla HD
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4fDDSpV/unnamed-removebg-preview.png",Sun Bangla
-
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 group-title="-",Star Bangla
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
@@ -173,6 +173,8 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.m3u8
 https://cdn-2.pishow.tv/live/226/226_1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/CpDqY2h2/FDGJFDJH.png",zOOM
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg",PTC Music
+https://cdn-3.pishow.tv/live/1501/master.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9a4c602bafac400c6583560569ad1ddc.png",Colors HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Colors_Infinity_2018_Logo.png/revision",Colors Infinity HD
@@ -311,20 +313,20 @@ http://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",STAR PLUS-3
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Myt6Smns/Dangal-TVLogo.png",Dangal-1
-http://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/BHfRq5VK/channels4-profile.jpg",Dangal-2
-http://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png",Nazara 
 http://epiconvh.akamaized.net/nazara/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/fe2abb2de6b079ea2e97ba2902b903fb.png",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/230_1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-1
-
+#EXTINF:-1 group-title="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sswurt1476662766.png",Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://sabtv.pk/wp-content/uploads/2024/10/cropped-logoFinal_-Lowres.png",SAB Entertainment
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4w3nzGPw/sbfff.png",Sony SAB-1
-
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4w3nzGPw/sbfff.png",Sony SAB-2
 
 #EXTINF:-1 group-title="-",SONY TEN 1
 
