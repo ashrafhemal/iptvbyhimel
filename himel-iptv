@@ -184,9 +184,9 @@ http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery HD
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery WB
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/7785a44b-1fdc-47fc-9b32-e58ac4bb9f31/2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://toucanrescueranch.org/wp-content/uploads/2025/02/Nat_Geo_Wild_logo-1024x368.png",Nat Geo Wild
-http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y4bf6rmy/gfdgfdshgfdj.png",Discovery Science
@@ -211,9 +211,7 @@ http://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/rfm73Y9L/trvlxp.png",Travelxp HD
 http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Y7P12VfH/png-clipart-isuzu-d-max-dmax-television-47deck-reggio-emilia-logo-others-television-angle.png",DMAX WB
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/3ycZXYnp/djfjhfdgdjkd.png",HGTV
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+https://d2j2nqgg7bzth.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/9bcc6999-f39c-48df-b300-8eddc763089e/2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands-thumbnail.png",Animal Planet HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Логотип_телеканала_RT_Doc.png",RT Doc
@@ -246,10 +244,8 @@ http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y7Rp3CG6/dfxzw1m-30cee9c2-6473-4b95-b8f4-c6be1d55c4f2.png",k2 Cartoon WB
-https://d1pmpe0hs35ka5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/b6033dff-eb30-4f4e-ad24-a81b355dd79a/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/2/26/Frisbee_logo.png/",Frisbee WB
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+https://d6m7lubks416z.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/843f891e-5480-45ab-b23b-b5505b61fa4f/3.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.nicepng.com/png/full/205-2058740_boomerang-png.png",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-1
@@ -300,6 +296,8 @@ http://magnolia-cinelife.amagi.tv/playlist720pl.m3u8
 http://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770298885-90798507.png",Crimes
 http://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Real_Crime_2024.svg",Real Crime
+https://lds-realcrimebeta-rakuten.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770299935-59492219.png",Lucky Family
 http://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED-225x225.png",Wedo Movies
@@ -321,7 +319,7 @@ http://epiconvh.akamaized.net/nazara/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/fe2abb2de6b079ea2e97ba2902b903fb.png",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/230_1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sswurt1476662766.png",Express Entertainment
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+http://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://sabtv.pk/wp-content/uploads/2024/10/cropped-logoFinal_-Lowres.png",SAB Entertainment
