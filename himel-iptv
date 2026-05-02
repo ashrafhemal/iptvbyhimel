@@ -213,7 +213,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://server.thelegit
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick Hindi
 
 #EXTINF:-1 group-title="" tvg-logo="https://powerkids.net/wp-content/uploads/2024/09/logo.png",Power Kids
-https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/240cceff-8775-4355-94cd-6316b8d24eba/2.m3u8
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4wk035nM/djhfgff.png",Discovery Kids
 http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770007993-95179352.png",Joy
@@ -308,8 +308,10 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://epiconvh.akamaized.net/nazara/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/fe2abb2de6b079ea2e97ba2902b903fb.png",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/230_1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sswurt1476662766.png",Express Entertainment
-
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/m5VSVKfB/fghfdhghgdhgdhg.png",Aur Life
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ary_Digital_Logo.png/960px-Ary_Digital_Logo.png",Ary Digital
+http://175.107.244.52:4456/play/a051/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-500x281.png",Zee TV
 http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
