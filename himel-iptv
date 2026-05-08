@@ -149,8 +149,8 @@ http://epiconvh.akamaized.net/9xJalwa/master_720.m3u8
 https://epiconvh.akamaized.net/9XM/master_720.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",B4U Music
 
-#EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/30/1/mtv-hd-logo-png_seeklogo-305578.png",MTV HD
-
+#EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Sangeet_Bangla_logo_2021_with_slogan.png",Sangeet Bangla
 http://103.229.254.25:7001/play/a07m/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
