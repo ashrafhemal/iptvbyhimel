@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/k6r5sVXs/photo-2026-04-05-00-27-47.jpg",**Notice**
-https://i.imgur.com/rLcEvIU.mp4
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://as1.ftcdn.net/v2/jpg/00/73/01/50/1000_F_73015061_oRvwpAKVyzG7sMkpYvMAgmTJ5FUrkfYO.jpg",**𝑵𝒐𝒕𝒊𝒄𝒆**
+https://i.imgur.com/3lJhtch.mp4
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-1
-https://oldkors-g0p7s.cfcross.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+#https://oldkors-g0p7s.cfcross.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-2
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+#https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e1/NTV_HD_logo_2025.png",NTV BD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",Rtv
@@ -53,8 +53,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",যমুনা টিভি-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",যমুনা টিভি-2
-
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://as1.ftcdn.net/v2/jpg/00/73/01/50/1000_F_73015061_oRvwpAKVyzG7sMkpYvMAgmTJ5FUrkfYO.jpg",**𝑵𝒐𝒕𝒊𝒄𝒆**
+https://i.imgur.com/3lJhtch.mp4
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/news24-channel-logo.png",News 24-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/news24-channel-logo.png",News 24-2
@@ -169,22 +169,26 @@ http://103.229.254.25:7001/play/a07m/index.m3u8
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.pngitem.com/pimgs/m/444-4449742_nrg-91-tv-logo-png-transparent-png.png",NRG 91 TV
 http://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/960px-Radio_m2o_-_Logo_2019.svg.png",m2o tv
-https://streamcdng17-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770007162-60047760.png?v=10.5.6",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.guljaj.com/images/5365.png",1 Muzic
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y7bdShsJ/HGFDHGDFHGDHGD.jpg",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
+http://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music.png",PTC Music
 https://cdn-3.pishow.tv/live/1501/master.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/304-3040988_logo-xite-2017-zwart-xite-4k-hd-png.png",Xite TV
 https://oldkors-9u3p1.cfcross.workers.dev/?url=https%3A%2F%2Fxite-rakuten.amagi.tv%2F480p-vtt%2Findex.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/viib-v2beat-logo-neon-1280-x-720.jpg",v2Beat TV
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/960px-DeeJay_TV.svg.png",Deejay TV
+https://streamcdng4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b764000.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Óčko_logo_2012.png",Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery WB
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://toucanrescueranch.org/wp-content/uploads/2025/02/Nat_Geo_Wild_logo-1024x368.png",Nat Geo Wild
 
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD
@@ -219,7 +223,7 @@ http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands-thumbnail.png",Animal Planet HD
 
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Логотип_телеканала_RT_Doc.png",RT Doc
-https://oldkors-g0p7s.cfcross.workers.dev/?url=http://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/v6P4z3hn/FFKHKFHGFKJF.png",HGTV
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/tv-web-providers/Outsude%20TV.png",Outside TV
@@ -248,8 +252,8 @@ http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/2/26/Frisbee_logo.png",Frisbee WB
-
+#EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/44/1/trt-cocuk-logo-png_seeklogo-440097.png",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146",KK Kids
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/elinor-wonders-why/images/d/d9/PBS_Kids_Dash_%25_282009%25_29.png",PBS Kids
@@ -289,13 +293,13 @@ http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/99TMX1m3/fhfhfjhfj.png",Star Gold Select HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",My Time Movie
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
+http://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/starMovies.png",STAR Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/NnsBPm8P/shkhjfsgjsdjhfsd.png",BBC Drama
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/480p/index.m3u8
+http://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.persianity.com/thumb.php?src=https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
+http://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/9k2XcRwg/pixgghhjjhj.png",SONY PIX
 
 #EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/32/1/giallo-logo-png_seeklogo-327364.png",Giallo
@@ -309,13 +313,13 @@ http://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770298885-90798507.png",Crimes
 http://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5WmCMqrJ/dfhhkjfhkdhkj.png",Real Crime
-https://lds-realcrimebeta-rakuten.amagi.tv/480p-cc/index.m3u8
+http://lds-realcrimebeta-rakuten.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770299935-59492219.png",Lucky Family
 http://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://royakids.tv/gallery/logo1.png",Roya Kids
 https://oldkors-g0p7s.cfcross.workers.dev/?url=https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",AHM
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+http://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/36/স্টার_মুভিজ_সিলেক্ট_এইচডি_লোগো.png",STAR Movies Select HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",Brat TV
@@ -353,7 +357,7 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports Select 2
 http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/04/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png",MLB TV
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_640x360.m3u8
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB-512-75.png",Fifa+
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/1f31a4bb-58d0-4619-a3db-0e1d62e2fb88/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png",Real Madrid TV
