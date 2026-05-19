@@ -181,10 +181,6 @@ https://cdn-3.pishow.tv/live/1501/master.m3u8
 https://oldkors-9u3p1.cfcross.workers.dev/?url=https%3A%2F%2Fxite-rakuten.amagi.tv%2F480p-vtt%2Findex.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/viib-v2beat-logo-neon-1280-x-720.jpg",v2Beat TV
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/960px-DeeJay_TV.svg.png",Deejay TV
-https://streamcdng4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b764000.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Óčko_logo_2012.png",Ocko TV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/mFVYH1mm/fdgfghdhgd.png",Discovery WB
@@ -300,10 +296,10 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 http://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.persianity.com/thumb.php?src=https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
 http://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/9k2XcRwg/pixgghhjjhj.png",SONY PIX
-
-#EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/32/1/giallo-logo-png_seeklogo-327364.png",Giallo
-
+#EXTINF:-1 group-title="" tvg-logo="https://p7.hiclipart.com/preview/505/595/716/axn-high-definition-television-logo-sony-pictures-hd-logo.jpg",AXN
+http://186.33.25.234:8125/play/a08a/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/9mbPjnkc/jdjkfghjkdjk.png",Cowboy Movies
+https://streams2.sofast.tv/sofast2/v1/0197c4fd45d01ea506ec94c3cd653/0197c4fdae7a1ea506492547d864d/cowboy_movie_eng_1000k.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/MDSFKGR6/lotusgdhgfdgh.png",Lotus Macau
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/JjqfqZgt/Cine-Life-web.jpg",Cine Life
@@ -317,7 +313,7 @@ http://lds-realcrimebeta-rakuten.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770299935-59492219.png",Lucky Family
 http://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://royakids.tv/gallery/logo1.png",Roya Kids
-https://oldkors-g0p7s.cfcross.workers.dev/?url=https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/2.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",AHM
 http://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/36/স্টার_মুভিজ_সিলেক্ট_এইচডি_লোগো.png",STAR Movies Select HD
