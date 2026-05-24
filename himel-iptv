@@ -344,7 +344,9 @@ http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN
 https://tvsen5.aynaott.com/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg",Fox Sports 2
+#EXTINF:-1 group-title="" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/394/987355.jpg",Fox Sports 1
+https://tvsen7.aynaott.com/foxsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/331/273/png-clipart-fox-sports-2-fox-sports-networks-fox-sports-1-television-channel-sport-logo-television-blue.png",Fox Sports 2
 https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/jZVL4Qvk/sdhfsfhghg.png",TSN2
 https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.m3u8
