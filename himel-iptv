@@ -87,8 +87,8 @@ https://tvsen6.aynaott.com/GreenTvHD/index.m3u8
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/RpFRnpwM/HJSDGSGJD.png",Desh TV-2
 https://tvsen6.aynaott.com/deshtv/index.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/03/EPTV-Logo-400x400-1.png",EP TV
-
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg",Deshebideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/nagorik-nemenic.png",Nagorik
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-1
@@ -361,7 +361,7 @@ https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/jZVL4Qvk/sdhfsfhghg.png",TSN2
 https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports 1 HD
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png",Star Sports 3
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports Select 1
