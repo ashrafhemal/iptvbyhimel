@@ -75,7 +75,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg",TSports-2
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg",TSports-3
-
+https://stream-aerotv.vercel.app/play/m3utv_7473706f727473?s=0
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-1
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-2
@@ -133,9 +133,9 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w1394939336.m
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",PeaceTV-Bangla
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",PeaceTV-English
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v3a1/mono.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-1
@@ -151,8 +151,8 @@ https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-1
 https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Aakash_Aath_Logo.png",Akash Aath
+
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Jalsha Movies HD
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
@@ -384,7 +384,7 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/04/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png",MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB-512-75.png",Fifa+
-
+https://stream-aerotv.vercel.app/play/m3utv_666966616368616e6e656c
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
