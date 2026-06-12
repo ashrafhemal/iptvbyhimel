@@ -2,7 +2,13 @@
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://as1.ftcdn.net/v2/jpg/00/73/01/50/1000_F_73015061_oRvwpAKVyzG7sMkpYvMAgmTJ5FUrkfYO.jpg",**𝑵𝒐𝒕𝒊𝒄𝒆**
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Promo**
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=2407200.m3u8
+
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Fifa 2026**
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Fifa 2026**
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/870f2449-6dce-4e1d-9640-516fd4c15e0e/2.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Fifa 2026**
+https://varzcors-p04t8c1x.cfcross.workers.dev/?url=https://live-aburayhan1105.telewebion.ir/ek/tv3/live/720p/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-1
@@ -29,6 +35,8 @@ https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel i-2
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel i-3
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV-1
 https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV-2
@@ -40,8 +48,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-1
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-2
-
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV-2
 
@@ -129,8 +135,7 @@ https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/GfdD0sQ2/SGHGSGHSHGS.png",Thikana TV
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w243143320.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=1998800.m3u8
+
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",PeaceTV-Bangla
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",PeaceTV-English
