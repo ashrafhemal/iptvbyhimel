@@ -4,9 +4,9 @@
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Promo**
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-1
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-2
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+http://84.17.50.102/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-4
@@ -14,15 +14,19 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.stream
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-5
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-6
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist_w1080952598.m3u8
+http://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-7
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/480/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-9
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-10
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-11
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-12
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-1
@@ -94,7 +98,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://srknowapp.ncar
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg",TSports-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg",TSports-3
-https://stream-aerotv.vercel.app/play/m3utv_7473706f727473?s=0
+
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-1
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-2
@@ -149,7 +153,6 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.co
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/GfdD0sQ2/SGHGSGHSHGS.png",Thikana TV
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w243143320.m3u8
-
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",PeaceTV-Bangla
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",PeaceTV-English
@@ -167,7 +170,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png",Colors Bangla Cinema
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-1
-
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-2
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath
@@ -274,7 +277,7 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/logopedia/images/d/db/Anmol_Cinema_2025_Logo_%28Low_Quality%29.jpg",Zee Anmol Cinema
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f0/Star_Gold_2011.png",Star Gold HD-1
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f0/Star_Gold_2011.png",Star Gold HD-2
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.goldmines.co.in/assets/img/sites/s3.jpg",Goldmines Movies
@@ -292,7 +295,7 @@ http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/LXsZkk99/trgl2.png",Star Gold 2 HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/tTy8qN7d/fhjhjfjhfjh.png",Zee Cinema
-http://103.99.249.139/zeecinema/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/99TMX1m3/fhfhfjhfj.png",Star Gold Select HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/ZpBbz6VD/sghdfhshdfshdgfhs.png",My Time Movie
