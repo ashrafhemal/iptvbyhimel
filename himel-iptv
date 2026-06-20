@@ -4,15 +4,15 @@
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Promo**
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-1
-http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-2
 http://84.17.50.102/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-3
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-4
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-5
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+http://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-6
 http://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-7
@@ -24,9 +24,11 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.stream
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-10
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-11
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+http://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-12
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+http://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-13
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-1
@@ -160,7 +162,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erb
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-1
-
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-2
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/qYSc6hWr/cdnlogo-com-zee-bangla-cinema.png",Zee Bangla Cinema
