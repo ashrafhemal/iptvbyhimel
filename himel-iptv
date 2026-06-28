@@ -24,7 +24,7 @@ http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-10
 http://69.64.57.208:8080/rti1/playlist.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-11
-
+https://s1.itcnbd.live/united-sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-12
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/kVsvHmC1/FIFA-2026-World-Cup-White-Logo.png",Fifa 2026 Server-13
