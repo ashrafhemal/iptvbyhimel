@@ -28,7 +28,7 @@ http://143.244.62.109/as1bh/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-12
 http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-13
-
+https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-1
