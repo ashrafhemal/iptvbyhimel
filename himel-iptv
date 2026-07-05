@@ -10,7 +10,7 @@ https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.co
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-3
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-4
-http://180.94.28.28:8097/Fifa-2026/tracks-v1a1/mono.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-5
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-6
@@ -18,9 +18,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-7
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-8
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-9
-http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-10 (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SOMOY-TV-HD/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/zVQWbPqG/186908109166669-5fce1390777f0.png",Fifa 2026 Server-11(AlphaBroadway)
@@ -120,7 +120,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.co
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg",Deshebideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/nagorik-nemenic.png",Nagorik
-http://180.94.28.28:8097//Nagorik-TV/tracks-v1/seg-0-191306.hls.fmp4
+
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-1
 http://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-2
@@ -168,7 +168,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-1
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-2
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/qYSc6hWr/cdnlogo-com-zee-bangla-cinema.png",Zee Bangla Cinema
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5WN2C15g/gdhdhdhg.png",Zee Bangla
@@ -187,6 +187,7 @@ http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png",Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",Zee Anmol
@@ -194,15 +195,17 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",Discovery Asia
-https://proxy.hridoytv.workers.dev/discoveryasia.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png",Discovery
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://toucanrescueranch.org/wp-content/uploads/2025/02/Nat_Geo_Wild_logo-1024x368.png",Nat Geo Wild
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NATGEO-WILD-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD
 http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD-2
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NATGEO-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y4bf6rmy/gfdgfdshgfdj.png",Discovery Science
-https://tbd.hossainhridoy.workers.dev/cdn/live/slang/discovery_science_576/discovery_science_576.m3u8?bitrate=1000000&channel=discovery_science_576&gp_id=
+
 #EXTINF:-1 group-title="" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",Discover Pakistan
 http://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_720p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-beli.png",GO2 Travel TV
@@ -230,8 +233,8 @@ http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Логотип_телеканала_RT_Doc.png",RT Doc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/v6P4z3hn/FFKHKFHGFKJF.png",HGTV
-
+#EXTINF:-1 group-title="" tvg-logo="https://ichef.bbci.co.uk/images/ic/736x414_b/p026sp8r.jpg",BBC Earth
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/BBC-EARTH-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/tv-web-providers/Outsude%20TV.png",Outside TV
 http://outsidetv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg",Rongeen TV
@@ -243,7 +246,9 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://app24.jagobd.c
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি-3
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/DURANTA-TV-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NICK/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/ttte/images/b/b8/Nick_Jr._logo_2023.png/",Nick Jr.
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NICK-JR/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://powerkids.net/wp-content/uploads/2024/09/logo.png",Power Kids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4wk035nM/djhfgff.png",Discovery Kids
@@ -263,7 +268,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONIC/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/44/1/trt-cocuk-logo-png_seeklogo-440097.png",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20251219081926",Disney XD
@@ -279,7 +284,7 @@ http://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://barshavision.in/images/resources/chanellogo/star_gold_romance.png",Star Gold Romance
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-1
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONY-MAX-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-2
 
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1751176014-91335358.png",&pictures HD
@@ -313,7 +318,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaI
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/ZpBbz6VD/sghdfhshdfshdgfhs.png",My Time Movie
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/starMovies.png",STAR Movies HD
-
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/STAR-MOVIES-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.persianity.com/thumb.php?src=https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
 http://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/9mbPjnkc/jdjkfghjkdjk.png",Cowboy Movies
@@ -322,8 +327,8 @@ https://streams2.sofast.tv/sofast2/v1/0197c4fd45d01ea506ec94c3cd653/0197c4fdae7a
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/960px-Sony_Pix_logo.svg.png",Sony Pix
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONY-PIX-HD/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://tvassets.roarzone.net/images/fx-tv.png",FX
-
+#EXTINF:-1 group-title="" tvg-logo="https://www.medianewsline.com/wp-content/uploads/2015/07/MN-logo-02-300x148.jpg",MN+
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/MN-PLUS-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",iFilm
 http://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770298885-90798507.png",Crimes
@@ -425,542 +430,3 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_2.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",PTV Sports
-
-#EXTM3U
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Big Magic
-http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD National HD
-http://103.175.73.12:8080/live/15/15_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Dangal
-http://103.175.73.12:8080/live/17/17_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Dangal 2
-http://103.175.73.12:8080/live/18/18_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Manoranjan Grand
-http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Anjan TV
-http://103.175.73.12:8080/live/20/20_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shemaroo Josh
-http://103.175.73.12:8080/live/21/21_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Manoranjan TV
-http://103.175.73.12:8080/live/23/23_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",The Q
-http://103.175.73.12:8080/live/25/25_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Colors Infinity
-http://103.175.73.12:8080/live/29/29_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",B4U Movies
-http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",B4U Kadak
-http://103.175.73.12:8080/live/44/44_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goldmines 2
-http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Manoranjan Movies
-http://103.175.73.12:8080/live/47/47_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Maha Movie
-http://103.175.73.12:8080/live/48/48_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shubh Cinema
-http://103.175.73.12:8080/live/49/49_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goldmines Movies
-http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goldmines
-http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",All Time Movies
-http://103.175.73.12:8080/live/54/54_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Manorama News
-http://103.175.73.12:8080/live/55/55_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Sports
-http://103.175.73.12:8080/live/64/64_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aaj Tak
-http://103.175.73.12:8080/live/87/87_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Good News Today
-http://103.175.73.12:8080/live/89/89_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TV9 Bharatvarsh
-http://103.175.73.12:8080/live/92/92_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News Nation
-http://103.175.73.12:8080/live/93/93_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India Voice
-http://103.175.73.12:8080/live/94/94_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News 24
-http://103.175.73.12:8080/live/95/95_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Hindi Khabar
-http://103.175.73.12:8080/live/96/96_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Bharat Samachar
-http://103.175.73.12:8080/live/97/97_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",IND 24
-http://103.175.73.12:8080/live/98/98_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",INH 24x7
-http://103.175.73.12:8080/live/99/99_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",K News India
-http://103.175.73.12:8080/live/100/100_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ANB News National
-http://103.175.73.12:8080/live/101/101_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News 1 India
-http://103.175.73.12:8080/live/102/102_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",JKL 24x7 News
-http://103.175.73.12:8080/live/103/103_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Bharat 24
-http://103.175.73.12:8080/live/104/104_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Janta TV
-http://103.175.73.12:8080/live/106/106_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",NDTV 24x7
-http://103.175.73.12:8080/live/107/107_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Republic TV
-http://103.175.73.12:8080/live/115/115_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DW English
-http://103.175.73.12:8080/live/116/116_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD News HD
-http://103.175.73.12:8080/live/117/117_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD India HD
-http://103.175.73.12:8080/live/119/119_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Food Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",FTV HD
-http://103.175.73.12:8080/live/144/144_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Kisan
-http://103.175.73.12:8080/live/148/148_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Star Sports Khel
-http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",9XM
-http://103.175.73.12:8080/live/155/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",B4U Music
-http://103.175.73.12:8080/live/157/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Music India
-http://103.175.73.12:8080/live/158/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",E 24
-http://103.175.73.12:8080/live/159/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Insync
-http://103.175.73.12:8080/live/160/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",9X Jalwa
-http://103.175.73.12:8080/live/161/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sanskar
-http://103.175.73.12:8080/live/165/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Divya
-http://103.175.73.12:8080/live/166/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Paras Gold
-http://103.175.73.12:8080/live/167/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Jinvani Channel
-http://103.175.73.12:8080/live/169/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Peace Of Mind
-http://103.175.73.12:8080/live/170/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Bihar
-http://103.175.73.12:8080/live/172/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",B4U Bhojpuri
-http://103.175.73.12:8080/live/174/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC Punjabi
-http://103.175.73.12:8080/live/175/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC Punjabi Gold
-http://103.175.73.12:8080/live/176/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Punjabi
-http://103.175.73.12:8080/live/177/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",9X Tashan
-http://103.175.73.12:8080/live/178/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC ChakDe
-http://103.175.73.12:8080/live/180/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC Music
-http://103.175.73.12:8080/live/181/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC News
-http://103.175.73.12:8080/live/182/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",PTC Simran
-http://103.175.73.12:8080/live/183/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Sahyadri
-http://103.175.73.12:8080/live/187/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Fakt Marathi
-http://103.175.73.12:8080/live/188/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shemaroo Marathibana
-http://103.175.73.12:8080/live/189/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TV9 Marathi
-http://103.175.73.12:8080/live/190/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP Asmita
-http://103.175.73.12:8080/live/192/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Bangla
-http://103.175.73.12:8080/live/197/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",R Plus Gold
-http://103.175.73.12:8080/live/198/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP Ananda
-http://103.175.73.12:8080/live/200/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TV9 Bangla
-http://103.175.73.12:8080/live/201/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Rongeen TV
-http://103.175.73.12:8080/live/202/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Arunprabha
-http://103.175.73.12:8080/live/203/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Studio One Plus
-http://103.175.73.12:8080/live/213/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Vendhar TV
-http://103.175.73.12:8080/live/223/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Vasanth TV
-http://103.175.73.12:8080/live/228/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Public First
-http://103.175.73.12:8080/live/237/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Public Movies
-http://103.175.73.12:8080/live/239/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Public Music
-http://103.175.73.12:8080/live/240/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Public TV
-http://103.175.73.12:8080/live/241/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Zee Bharat
-http://103.175.73.12:8080/live/244/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mazhavil Manorama HD
-http://103.175.73.12:8080/live/245/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Kappa TV
-http://103.175.73.12:8080/live/247/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Kashir
-http://103.175.73.12:8080/live/248/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Anmol TV
-http://103.175.73.12:8080/live/256/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Anmol Cinema 2
-http://103.175.73.12:8080/live/257/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shemaroo Umang
-http://103.175.73.12:8080/live/258/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Hare Krsna
-http://103.175.73.12:8080/live/259/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Uttar Pradesh
-http://103.175.73.12:8080/live/263/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Zee Action
-http://103.175.73.12:8080/live/270/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Anmol Cinema
-http://103.175.73.12:8080/live/271/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shemaroo TV
-http://103.175.73.12:8080/live/274/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Sports HD
-http://103.175.73.12:8080/live/280/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Zee News
-http://103.175.73.12:8080/live/294/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Times Now Navbharat
-http://103.175.73.12:8080/live/295/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Republic Bharat
-http://103.175.73.12:8080/live/296/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Republic Bharat
-http://103.175.73.12:8080/live/297/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News
-http://103.175.73.12:8080/live/298/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Subhavaartha
-http://103.175.73.12:8080/live/301/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News State Uttar Pradesh/Uttarakhand
-http://103.175.73.12:8080/live/302/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News 24 Madhya Pradesh/Chhattisgarh
-http://103.175.73.12:8080/live/303/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News Uttar Pradesh/Uttarakhand
-http://103.175.73.12:8080/live/304/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News State Madhya Pradesh/Chhattisgarh
-http://103.175.73.12:8080/live/305/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Raftaar Media
-http://103.175.73.12:8080/live/306/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News 11 Bharat
-http://103.175.73.12:8080/live/307/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Khabrain Abhi Tak
-http://103.175.73.12:8080/live/308/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",IBC 24
-http://103.175.73.12:8080/live/309/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TV 100
-http://103.175.73.12:8080/live/310/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News Daily 24
-http://103.175.73.12:8080/live/316/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Al Jazeera English
-http://103.175.73.12:8080/live/318/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Lotus Macau
-http://103.175.73.12:8080/live/331/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",FTV
-http://103.175.73.12:8080/live/332/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Prag News
-http://103.175.73.12:8080/live/336/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aastha
-http://103.175.73.12:8080/live/338/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aastha Bhajan
-http://103.175.73.12:8080/live/339/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sadhna Gold
-http://103.175.73.12:8080/live/340/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Satsang
-http://103.175.73.12:8080/live/341/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Santvani
-http://103.175.73.12:8080/live/342/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aadinath TV
-http://103.175.73.12:8080/live/343/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shraddha MH One
-http://103.175.73.12:8080/live/344/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Manoranjan Prime
-http://103.175.73.12:8080/live/345/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Zee Biskope
-http://103.175.73.12:8080/live/347/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Oscar Movies Bhojpuri
-http://103.175.73.12:8080/live/348/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sangeet Bhojpuri
-http://103.175.73.12:8080/live/349/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MH One Dil Se
-http://103.175.73.12:8080/live/351/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Pitaara
-http://103.175.73.12:8080/live/352/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MH One
-http://103.175.73.12:8080/live/353/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Balle Balle
-http://103.175.73.12:8080/live/354/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",9X Jhakaas
-http://103.175.73.12:8080/live/365/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Goa
-http://103.175.73.12:8080/live/367/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Girnar
-http://103.175.73.12:8080/live/368/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aastha Gujarati
-http://103.175.73.12:8080/live/372/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Khushboo Bangla
-http://103.175.73.12:8080/live/375/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Dhoom Music Bangla
-http://103.175.73.12:8080/live/378/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sangeet Bangla
-http://103.175.73.12:8080/live/379/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Nepal 1
-http://103.175.73.12:8080/live/380/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Mizoram
-http://103.175.73.12:8080/live/381/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Divyavani TV
-http://103.175.73.12:8080/live/382/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Kalinga TV
-http://103.175.73.12:8080/live/386/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Safari
-http://103.175.73.12:8080/live/410/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TRT World
-http://103.175.73.12:8080/live/416/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",NHK World Japan
-http://103.175.73.12:8080/live/417/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP Majha
-http://103.175.73.12:8080/live/418/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Gulistan News
-http://103.175.73.12:8080/live/427/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Asian News
-http://103.175.73.12:8080/live/449/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News India 24x7
-http://103.175.73.12:8080/live/453/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Epic Bhojpuri
-http://103.175.73.12:8080/live/467/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Epic Music
-http://103.175.73.12:8080/live/469/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Epic Bharat
-http://103.175.73.12:8080/live/471/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Jharkhand
-http://103.175.73.12:8080/live/573/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Himachal
-http://103.175.73.12:8080/live/575/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Uttarakhand
-http://103.175.73.12:8080/live/576/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Chhattisgarh
-http://103.175.73.12:8080/live/577/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Madhya Pradesh
-http://103.175.73.12:8080/live/578/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Haryana
-http://103.175.73.12:8080/live/580/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MoviePlex
-http://103.175.73.12:8080/live/583/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goldmines Action
-http://103.175.73.12:8080/live/584/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India TV
-http://103.175.73.12:8080/live/586/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Swadesh News
-http://103.175.73.12:8080/live/588/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Vertent Samachar Plus 24x7
-http://103.175.73.12:8080/live/589/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News Haryana
-http://103.175.73.12:8080/live/590/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Taaza TV
-http://103.175.73.12:8080/live/591/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DNN
-http://103.175.73.12:8080/live/592/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",APN
-http://103.175.73.12:8080/live/593/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP Ganga
-http://103.175.73.12:8080/live/594/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP News
-http://103.175.73.12:8080/live/595/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",1st India News
-http://103.175.73.12:8080/live/596/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Kashish News
-http://103.175.73.12:8080/live/597/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Munsif TV
-http://103.175.73.12:8080/live/598/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News MP/CG
-http://103.175.73.12:8080/live/600/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News Rajasthan
-http://103.175.73.12:8080/live/601/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News X
-http://103.175.73.12:8080/live/603/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",STV Haryana News
-http://103.175.73.12:8080/live/607/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News X World
-http://103.175.73.12:8080/live/610/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Network 10
-http://103.175.73.12:8080/live/611/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Hare Krsna
-http://103.175.73.12:8080/live/617/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sadhna Gold
-http://103.175.73.12:8080/live/620/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",SVBC 4
-http://103.175.73.12:8080/live/621/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Prarthana Bhawan TV
-http://103.175.73.12:8080/live/623/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Dharm Sandesh
-http://103.175.73.12:8080/live/625/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shubh TV
-http://103.175.73.12:8080/live/626/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Shubhsandesh TV
-http://103.175.73.12:8080/live/627/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Vedic
-http://103.175.73.12:8080/live/628/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sarv Dharam Sangam
-http://103.175.73.12:8080/live/630/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Subharti TV
-http://103.175.73.12:8080/live/631/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Awakening TV
-http://103.175.73.12:8080/live/633/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",634
-http://103.175.73.12:8080/live/634/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Fateh TV
-http://103.175.73.12:8080/live/635/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Tehzeeb TV
-http://103.175.73.12:8080/live/636/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mercy TV
-http://103.175.73.12:8080/live/637/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mandir TV
-http://103.175.73.12:8080/live/638/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MH One Movies
-http://103.175.73.12:8080/live/639/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Maha Punjabi
-http://103.175.73.12:8080/live/640/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABP Sanjha
-http://103.175.73.12:8080/live/641/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News Punjab
-http://103.175.73.12:8080/live/642/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MH One News
-http://103.175.73.12:8080/live/643/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Chardikla Time TV
-http://103.175.73.12:8080/live/645/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Bhojpuri Cinema
-http://103.175.73.12:8080/live/646/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",4tv News
-http://103.175.73.12:8080/live/647/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Channel WIN
-http://103.175.73.12:8080/live/648/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Saam TV
-http://103.175.73.12:8080/live/650/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",TV9 Gujarati
-http://103.175.73.12:8080/live/652/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",India News Gujarat
-http://103.175.73.12:8080/live/653/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Gujarat First News
-http://103.175.73.12:8080/live/655/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mantavya News
-http://103.175.73.12:8080/live/656/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sandesh News
-http://103.175.73.12:8080/live/657/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Enterr10 Bangla
-http://103.175.73.12:8080/live/658/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Tripura
-http://103.175.73.12:8080/live/661/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",R Plus
-http://103.175.73.12:8080/live/662/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Republic Bangla
-http://103.175.73.12:8080/live/663/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Ruposhi Bangla
-http://103.175.73.12:8080/live/664/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News Time Bangla
-http://103.175.73.12:8080/live/665/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",MBC TV
-http://103.175.73.12:8080/live/667/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Naxatra News Bihar/Jharkhand
-http://103.175.73.12:8080/live/668/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Kanak News
-http://103.175.73.12:8080/live/669/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Nagaland
-http://103.175.73.12:8080/live/670/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Manipur
-http://103.175.73.12:8080/live/671/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Assam
-http://103.175.73.12:8080/live/672/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Rang
-http://103.175.73.12:8080/live/673/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Northeast Live
-http://103.175.73.12:8080/live/674/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Assam Talks
-http://103.175.73.12:8080/live/675/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Jonack
-http://103.175.73.12:8080/live/676/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Yadagiri
-http://103.175.73.12:8080/live/678/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Tamil
-http://103.175.73.12:8080/live/679/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",DD Malayalam
-http://103.175.73.12:8080/live/680/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",NE News
-http://103.175.73.12:8080/live/681/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Pratidin Time
-http://103.175.73.12:8080/live/682/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Makkal TV
-http://103.175.73.12:8080/live/683/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mahaa Max
-http://103.175.73.12:8080/live/684/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",10 TV
-http://103.175.73.12:8080/live/686/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",ABN Andhra Jyothi
-http://103.175.73.12:8080/live/687/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Unique TV
-http://103.175.73.12:8080/live/688/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mahaa News
-http://103.175.73.12:8080/live/689/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Malai Murasu TV
-http://103.175.73.12:8080/live/690/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News 1st Kannada
-http://103.175.73.12:8080/live/691/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Asianet Suvarna News
-http://103.175.73.12:8080/live/692/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",T News
-http://103.175.73.12:8080/live/693/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",V6 News
-http://103.175.73.12:8080/live/694/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Pear TV
-http://103.175.73.12:8080/live/695/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Asianet Middle East
-http://103.175.73.12:8080/live/697/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Amrita TV
-http://103.175.73.12:8080/live/698/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Asianet News
-http://103.175.73.12:8080/live/699/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Jaihind
-http://103.175.73.12:8080/live/700/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",CVR English
-http://103.175.73.12:8080/live/701/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Aastha Telugu
-http://103.175.73.12:8080/live/702/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Goodness TV
-http://103.175.73.12:8080/live/704/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",CVR OM Spiritual
-http://103.175.73.12:8080/live/705/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Nireekshana TV
-http://103.175.73.12:8080/live/706/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Mahaa Bhakthi
-http://103.175.73.12:8080/live/707/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Pasand TV
-http://103.175.73.12:8080/live/708/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Rengoni
-http://103.175.73.12:8080/live/709/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Hornbill TV
-http://103.175.73.12:8080/live/710/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Madhimugam TV
-http://103.175.73.12:8080/live/711/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sangeet Marathi
-http://103.175.73.12:8080/live/712/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Hi Dost
-http://103.175.73.12:8080/live/713/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Sansad TV 1 HD
-http://103.175.73.12:8080/live/718/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",News State Bihar Jharkhand
-http://103.175.73.12:8080/live/732/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Vistaar News
-http://103.175.73.12:8080/live/734/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Bharat Express
-http://103.175.73.12:8080/live/736/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",Khabar Fast
-http://103.175.73.12:8080/live/740/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",7S Music
-http://103.175.73.12:8080/live/771/master.m3u8
-#EXTINF:-1 group-title="EK TV" tvg-logo="https://ektv.in/wp-content/uploads/2025/06/ektv-logo-open-network.png",GTC Punjabi
-http://103.175.73.12:8080/live/772/master.m3u8
-
