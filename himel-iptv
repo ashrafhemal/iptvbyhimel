@@ -167,25 +167,25 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dzkyvlfyge.erb
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-1
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-2 (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/yHdtSnZ.jpeg",Zee Bangla Sonar
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5WN2C15g/gdhdhdhg.png",Zee Bangla
-http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png",Colors Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-1 (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONY-AAT/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-2
-
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Jalsha Movies HD
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4b/Colors_Bangla_HD_with_slogan_%282021%29.png",Colors Bangla HD
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png",Sun Bangla (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
@@ -364,7 +364,7 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ary_Digital_Logo.png/960px-Ary_Digital_Logo.png",Ary Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/94/হাম_টিভি_২০১৩.png",Hum TV
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://w7.pngwing.com/pngs/517/623/png-transparent-pakistan-hum-tv-hum-sitaray-television-channel-others-purple-television-angle-thumbnail.png",Hum Sitaray
 http://38.101.217.46/HumSitaray/index.m3u8
@@ -377,7 +377,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 #EXTINF:-1 group-title="" tvg-logo=" ",DD Himachol
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png",Sony Sab-1
-https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png",Sony Sab-2
 https://tbd.hossainhridoy.workers.dev/cdn/live/slang/sonysab_hd_576/sonysab_hd_576.m3u8?bitrate=1000000&channel=sonysab_hd_576&gp_id=
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.smartads.in/images/product/television/9X-Jalwa.png",9X JALWA
