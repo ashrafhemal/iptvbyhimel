@@ -196,8 +196,8 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",Discovery Asia
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png",Discovery
-
+#EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png",Discovery HD
+https://hls.diptom3ow.workers.dev/r/https://stream.ottplus.bd/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://toucanrescueranch.org/wp-content/uploads/2025/02/Nat_Geo_Wild_logo-1024x368.png",Nat Geo Wild (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NATGEO-WILD-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD
@@ -205,7 +205,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaI
 #EXTINF:-1 group-title="" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",Nat Geo HD-2 (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NATGEO-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Y4bf6rmy/gfdgfdshgfdj.png",Discovery Science
-
+https://hls.diptom3ow.workers.dev/r/https://stream.ottplus.bd/live/discovery_science_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",Discover Pakistan
 http://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_720p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-beli.png",GO2 Travel TV
@@ -252,7 +252,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaI
 #EXTINF:-1 group-title="" tvg-logo="https://powerkids.net/wp-content/uploads/2024/09/logo.png",Power Kids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4wk035nM/djhfgff.png",Discovery Kids
-
+https://hls.diptom3ow.workers.dev/r/https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/960px-SONY_YAY_2022_Logo.png",Sony Yay (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONY-YAY/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770007993-95179352.png",Joy
@@ -262,7 +262,8 @@ http://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/fVk1dPHw/dghfdhgdhg.jpg",Sensical Kids
 http://sensical2up-oando.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network-Hindi
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u8
+https://hls.diptom3ow.workers.dev/r/https://stream.ottplus.bd/live/cn_sd_abr/index.m3u8
+#https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network HD+
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD
@@ -270,7 +271,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONIC/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/790/709/png-clipart-pogo-com-television-channel-logo-others-television-text-thumbnail.png",Pogo
-https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
+https://hls.diptom3ow.workers.dev/r/https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20251219081926",Disney XD
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/elinor-wonders-why/images/d/d9/PBS_Kids_Dash_%25_282009%25_29.png",PBS Kids
