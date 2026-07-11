@@ -269,8 +269,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/SONIC/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://images.seeklogo.com/logo-png/44/1/trt-cocuk-logo-png_seeklogo-440097.png",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/790/709/png-clipart-pogo-com-television-channel-logo-others-television-text-thumbnail.png",Pogo
+https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20251219081926",Disney XD
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/elinor-wonders-why/images/d/d9/PBS_Kids_Dash_%25_282009%25_29.png",PBS Kids
@@ -278,7 +278,7 @@ http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/pingu/images/c/c1/Hungama_TV.svg.png",Hungama TV(AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/HUNGAMA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png",Shemaroo Josh
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/XxSng0mq/ghddgfdgdgj.png",AFV TV
 http://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://barshavision.in/images/resources/chanellogo/star_gold_romance.png",Star Gold Romance
