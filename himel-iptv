@@ -92,7 +92,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.banglanewslive.com/wp-content/uploads/2016/03/satv.jpg",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=2407200.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1.png",Channel One-1
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1.png",Channel One-2
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://stage.akashdth.com/assets/uploads/channels_images/1751537128-35356560.png",Rajdhani TV
@@ -119,7 +119,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.co
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/RpFRnpwM/HJSDGSGJD.png",Desh TV-2
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.bd/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg",Deshebideshe TV
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/nagorik-nemenic.png",Nagorik
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-1
@@ -155,7 +155,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://app24.jagobd.co
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/LdGP6zPn/FDJGHDHHGD.png",Bijoy TV-1
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6e/নেক্সাস_টেলিভিশনের_লোগো.png",Nexus TV
-https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/GfdD0sQ2/SGHGSGHSHGS.png",Thikana TV
