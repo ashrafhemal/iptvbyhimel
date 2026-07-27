@@ -205,8 +205,8 @@ http://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/rfm73Y9L/trvlxp.png",Travelxp HD
 http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Y7P12VfH/png-clipart-isuzu-d-max-dmax-television-47deck-reggio-emilia-logo-others-television-angle.png",DMAX WB
-
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.bd/live/arirang_world/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands-thumbnail.png",Animal Planet HD
 
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Логотип_телеканала_RT_Doc.png",RT Doc
@@ -220,13 +220,13 @@ https://mumt05.tangotv.in/87NeALx2RONGEENTV/index.m3u8
 *https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি-1
 
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি-2
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV-1
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভ
+#EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV-2
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/DURANTA-TV-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NICK/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/ttte/images/b/b8/Nick_Jr._logo_2023.png/",Nick Jr.(AlphaBroadway)
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Nick_Jr._logo_2023_%28alternative%29.png",Nick Jr.(AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaITVlXFJQzOhY9d8fEg/1783072360/NICK-JR/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/4wk035nM/djhfgff.png",Discovery Kids
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
@@ -283,7 +283,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/w7CaI
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63ca523d57c534aae4b50f9cd4d2a80c.png",B4U kadak
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg",B4U Movies
+#EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/09b7b007c267d1a78c37726c3301df5b.png",B4U Movies
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://stream.ottplus.bd/live/b4u_movies_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/LXsZkk99/trgl2.png",Star Gold 2
 
