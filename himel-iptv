@@ -165,8 +165,10 @@ https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 http://197.149.149.18:3255/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-4
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath-1
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath-2
+http://103.159.180.34:5001/live/698.m3u8
 +https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Jalsha Movies HD
 http://103.165.93.31:8095/jalshaMovies/index.m3u8
