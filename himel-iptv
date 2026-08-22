@@ -100,7 +100,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg",Deshebideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/nagorik-nemenic.png",Nagorik
-
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-1
 http://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV-2
@@ -403,8 +403,10 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.pngitem.com/pimgs/m/444-4449742_nrg-91-tv-logo-png-transparent-png.png",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770007162-60047760.png?v=10.5.6",Party Universe
-
+#EXTINF:-1 group-title="" tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5751.jpg",Sony Sports 1
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/df/Sony_Sports_Ten_2_2022.png",Sony Sports 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.guljaj.com/images/5365.png",1 Muzic
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.vhv.rs/dpng/d/304-3040988_logo-xite-2017-zwart-xite-4k-hd-png.png",Xite TV
@@ -430,7 +432,7 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 u8#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports Select 2
 
 #EXTINF:-1 group-title="" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow Cricket
-
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/04/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png",MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB-512-75.png",Fifa+
