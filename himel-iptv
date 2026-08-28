@@ -15,7 +15,7 @@ https://footfytv.pro/proxy/direct?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbE
 https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",Rtv
 https://tvsen6.aynaott.com/rtv/index.m3u8
-https://footfytv.pro/proxy/direct?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+*https://footfytv.pro/proxy/direct?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png",BanglaVision-1
 https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://admin.atnbangla.tv/public/storage/upload/conf/ahk3rbQeyYy29Xmaco8nmEzpkoPFDrUNOHjBAHol.png",ATN Bangla-1
@@ -42,19 +42,19 @@ http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/DBC_News.png",DBC News
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelninebd.tv/wp-content/uploads/2025/10/Channel-Nine-Logo.png",Channel 9-1
-https://akash-by-hady.srhady.workers.dev/live/299.m3u8
+
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-1
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV-1
-https://footfytv.pro/proxy/direct?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
+https://footfytv.pro/proxy/direct?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/FN8KbPT/dgdghddh.png",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24-1
-https://footfytv.pro/proxy/direct?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+https://footfytv.pro/proxy/direct?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",Independent TV
@@ -84,19 +84,18 @@ http://197.149.149.18:3255/TSportsHD_sf_bdix/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg",TSports-3
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-1
-https://footfytv.pro/proxy/direct?url=https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 *https://footfytv.pro/proxy/direct?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/qM0qY8jH/dgjdgdgjd.jpg",Ekhon TV-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/20/Green_TV_Logo.png",Green TV-1
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+https://footfytv.pro/proxy/direct?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/20/Green_TV_Logo.png",Green TV-2
 
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/RpFRnpwM/HJSDGSGJD.png",Desh TV-1
 https://footfytv.pro/proxy/direct?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/RpFRnpwM/HJSDGSGJD.png",Desh TV-2
-
-*https://stream.ottplus.bd/live/desh_tv_abr/index.m3u8
+https://stream.ottplus.bd/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg",Deshebideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/nagorik-nemenic.png",Nagorik
@@ -110,11 +109,11 @@ https://footfytv.pro/proxy/direct?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbE
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/qLtsPZJ4/DKHFKJFHDKJHGFDKJFHKJGF.png",Global TV-2
 
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png",Gazi TV-1
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+https://footfytv.pro/proxy/direct?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png",Gazi TV-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png",Bijoy TV-1
-https://footfytv.pro/proxy/direct?url=https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png",Bijoy TV-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://boishakhionline.com/templates/web-view/images/BOISHAKHI-ONLINE-LOGO2.png",Boishakhi TV-1
@@ -169,9 +168,9 @@ http://197.149.149.18:3255/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-4
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath-1
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v2a1/mono.m3u8
+https://footfytv.pro/proxy/direct?url=https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath-2
-http://103.159.180.34:5001/live/698.m3u8
+https://footfytv.pro/proxy/direct?url=http://103.159.180.34:5001/live/698.m3u8
 *https://footfytv.pro/proxy/direct?url=https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Jalsha Movies HD
 http://103.165.93.31:8095/jalshaMovies/index.m3u8
@@ -182,7 +181,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVj
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",Zee Anmol
-http://103.175.73.12:8080/live/256/256_0.m3u8
+https://footfytv.pro/proxy/direct?url=http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet
 https://stream.ottplus.bd/live/animal_planet_hd_abr/playlist.m3u8
 #https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -201,20 +200,20 @@ https://stream.ottplus.bd/live/discovery_science_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.nicepng.com/png/detail/12-128785_discovery-science-new-logo-2017-chaine-discovery-science.png",Discovery Science 2
 
 #EXTINF:-1 group-title="" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",Discover Pakistan
-http://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_720p/chunks.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-beli.png",GO2 Travel TV
-
+https://footfytv.pro/proxy/direct?url=https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hgtv-logo-png-transparent.png",HGTV
+https://tvsen7.aynaott.com/hgtv/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png",CGTN Doc
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
 *https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",Delicious
-
+#EXTINF:-1 group-title="" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/03/travel_channel.jpg",Travel Channel
+https://tvsen6.aynaott.com/travelxp/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.rockislandcafe.com/assets/images/food_network_logo208150902_std.211154749.jpeg",Food Network
-
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://viasatnature.eu/wp-content/uploads/2026/04/cropped-viasat-nature.png",Viasat Nature
-http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770299315-59820258.png",Intelligence
-
+https://footfytv.pro/proxy/direct?url=http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="" tvg-logo="https://uk.tlc.com//app/uploads/2026/01/logo.png",TLC
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/CKLXp9jt/hggfdgjfh.jpg",Investigation Discovery
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Kx4BJxxZ/sjgsfjfghdgjhjd.png",Persiana Docs
@@ -253,12 +252,14 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/960px-SONY_YAY_2022_Logo.png",Sony Yay (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/SONY-YAY/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/fVk1dPHw/dghfdhgdhg.jpg",Sensical Kids
-http://sensical2up-oando.amagi.tv/720p-cc/index.m3u8
+https://footfytv.pro/proxy/direct?url=http://sensical2up-oando.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network-Hindi
 https://stream.ottplus.bd/live/cn_sd_abr/index.m3u8
 #https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cms-media.clink.services/Desktop_tznkiu.png",Disney Jr.
+https://tvsen7.aynaott.com/disney/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/5/1/4/2534158_c1e12.png",Cartoon Network HD+
-
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/নিকিলোডিয়ান_সনিক_লোগো.png",Sonic (AlphaBroadway)
@@ -274,7 +275,7 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVj
 #EXTINF:-1 group-title="" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png",Shemaroo Josh
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/XxSng0mq/ghddgfdgdgj.png",AFV TV
-http://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+https://footfytv.pro/proxy/direct?url=http://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://barshavision.in/images/resources/chanellogo/star_gold_romance.png",Star Gold Romance
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-1 (AlphaBroadway)
@@ -284,7 +285,7 @@ https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1751176014-91335358.png",&pictures HD
 
 #EXTINF:-1 group-title="" tvg-logo="https://5.imimg.com/data5/SELLER/Default/2023/3/XU/BU/RX/58311714/zee-action-advertising-services-500x500.png",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
+https://footfytv.pro/proxy/direct?url=http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/logopedia/images/d/db/Anmol_Cinema_2025_Logo_%28Low_Quality%29.jpg",Zee Anmol Cinema
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f0/Star_Gold_2011.png",Star Gold HD-1 (AlphaBroadway)
