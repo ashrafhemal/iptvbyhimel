@@ -214,13 +214,13 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
 *https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/03/travel_channel.jpg",Travel Channel
-https://tvsen6.aynaott.com/travelxp/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://www.rockislandcafe.com/assets/images/food_network_logo208150902_std.211154749.jpeg",Food Network
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://viasatnature.eu/wp-content/uploads/2026/04/cropped-viasat-nature.png",Viasat Nature
-http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
+
 #EXTINF:-1 group-title="" tvg-logo="https://banner2.cleanpng.com/20180622/wp/kisspng-tlc-television-show-television-channel-discovery-c-5b2dbdc760d131.0937740515297243593966.jpg",TLC
-https://tvsen6.aynaott.com/tlc_hd/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/CKLXp9jt/hggfdgjfh.jpg",Investigation Discovery
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Kx4BJxxZ/sjgsfjfghdgjhjd.png",Persiana Docs
@@ -381,9 +381,9 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
 
-#EXTINF:-1 group-title="" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png",Sony Sab-1
+#EXTINF:-1 group-title="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png",Sony Sab-1
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png",Sony Sab-2
+#EXTINF:-1 group-title="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png",Sony Sab-2
 
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.smartads.in/images/product/television/9X-Jalwa.png",9X JALWA
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/tracks-v1a1/mono.m3u8
@@ -392,7 +392,7 @@ https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/9xtashan-1.png",9X TASHAN
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
-https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8
+https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",B4U Music
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
@@ -417,8 +417,7 @@ https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png",Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN
 
 #EXTINF:-1 group-title="" tvg-logo="https://storage.googleapis.com/arabclicks-morexa.appspot.com/2020/11/adv_tapmad_big.png",Tapmad Live
@@ -433,17 +432,19 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/n-pn7
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/jZVL4Qvk/sdhfsfhghg.png",TSN2
 
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports 1 HD
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/65cLnt4g/gfdhgddhdhg.png",Star Sports 1 HD
 https://p4kp.rjmbts.workers.dev/25121.m3u8
 *https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/MHDR7mTh/DSGFFGDGDHDGHDG.png",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png",Star Sports Khel
 
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports Select 1
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/cJnn9SC2/HGFDSFHGDFHSGDHG.png",Star Sports Select 1
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
-u8#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/17/স্টার_স্পোর্টসের_লোগো.png",Star Sports Select 2
+u8#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/m2gFxMhH/FHGDSFGHDHGDG.png",Star Sports Select 2
 https://p4kp.rjmbts.workers.dev/7458.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png",Willow Cricket
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/04/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png",MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB-512-75.png",Fifa+
@@ -455,4 +456,4 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",PTV Sports-1
 http://197.149.149.18:3255/ptv_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",PTV Sports-2
-https://flussonic.defineatoz.com/PTV/index.m3u8
+
