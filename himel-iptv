@@ -259,7 +259,7 @@ https://mumt05.tangotv.in/87NeALx2RONGEENTV/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV-1
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/DURANTA-TV-HD/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV-2
-
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/NICK/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick
@@ -375,6 +375,8 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/XkbF8Cnd/shgsjhfgjsgf.png",Epic TV 
 http://epiconvh.akamaized.net/nazara/master_480.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Dd-india-hd.png",DD India HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/fe2abb2de6b079ea2e97ba2902b903fb.png",Shemaroo TV
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/m5VSVKfB/fghfdhghgdhgdhg.png",Aur Life-1
