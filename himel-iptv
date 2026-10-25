@@ -142,8 +142,6 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/nsmZgBrf/Logo-of-My-TV-Bangladesh.png",MY TV-2
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/LdGP6zPn/FDJGHDHHGD.png",Bijoy TV-1
-
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6e/নেক্সাস_টেলিভিশনের_লোগো.png",Nexus TV-1
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6e/নেক্সাস_টেলিভিশনের_লোগো.png",Nexus TV-2
@@ -154,8 +152,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.m3u8
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w243143320.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/zT5b0DGZ/channel16-removebg-preview.png",Channel 16
-
+#EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/vxk5mFXq/djhjfdhjfjhf.jpg",Channel 52
+https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",PeaceTV-Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",PeaceTV-English
