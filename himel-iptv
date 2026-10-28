@@ -4,7 +4,7 @@ https://i.imgur.com/AolmX6Y.mp4
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/akash-logo-png_seeklogo-388806.png",**Promo**
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75",BTV
-http://103.135.253.32:8080/BTV/index.m3u8#skym3u.dev
+http://103.135.253.32:8080/BTV/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.postimg.cc/ZYF4NwfS/BTV-Chattogram-Logo-svg.png",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i0.wp.com/www.channelionline.com/wp-content/uploads/2020/03/sangsad-tv.jpg?w=600&quality=100&ssl=1",Sangsad TV
@@ -25,7 +25,7 @@ https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://admin.atnbangla.tv/public/storage/upload/conf/ahk3rbQeyYy29Xmaco8nmEzpkoPFDrUNOHjBAHol.png",ATN Bangla-2
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN News-1
-https://iptv-proxy.ahmed-bd-org.workers.dev/atn-news/index.m3u8#skym3u.dev
+https://iptv-proxy.ahmed-bd-org.workers.dev/atn-news/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN News-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga TV-1
@@ -47,7 +47,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://www.channelninebd.tv/wp-content/uploads/2025/10/Channel-Nine-Logo.png",Channel 9
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-1
-https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8#skym3u.dev
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i.ibb.co.com/V5QnPdT/hdfgjhgfdjjjjjj.jpg",Deepto TV-2
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV-1
@@ -63,7 +63,7 @@ https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/live/channel_24_720/chunks.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",Independent TV-1
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",Independent TV-2
-http://103.135.253.32:8080/Indipendent/index.m3u8#skym3u.dev
+http://103.135.253.32:8080/Indipendent/index.m3u8
 *http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",Jamuna TV-1
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -197,7 +197,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png",Sun Bangla (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png",Sun Bangla-2
-http://103.135.253.32:8080/SUN-BANGLA/index.m3u8#skym3u.dev
+http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",Zee Anmol
@@ -300,7 +300,7 @@ https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/pingu/images/c/c1/Hungama_TV.svg.png",Hungama TV(AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/HUNGAMA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/pingu/images/c/c1/Hungama_TV.svg.png",Hungama TV-2
-http://103.135.253.32:8080/HUNGAMA/index.m3u8#skym3u.dev
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png",Epic Kids
 https://cc-t8lqe1o99pszu.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/a383c2d2-e563-455e-9056-be916c4f2867/3.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/XxSng0mq/ghddgfdgdgj.png",AFV TV
