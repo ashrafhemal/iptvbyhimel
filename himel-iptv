@@ -10,7 +10,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://i0.wp.com/www.channelionline.com/wp-content/uploads/2020/03/sangsad-tv.jpg?w=600&quality=100&ssl=1",Sangsad TV
  
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News
-
+https://btv.hridoytv-channel.workers.dev/news.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/বিটিভি_নিউজের_লোগো.png",BTV News-2
 
 #EXTINF:-1 group-title="Online TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e1/NTV_HD_logo_2025.png",NTV BD
@@ -148,6 +148,8 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="http://doyeltv.com/wp-content/uploads/2023/08/Doyel-TV-Logo.png",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://i.ibb.co.com/GfdD0sQ2/SGHGSGHSHGS.png",Thikana TV
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w243143320.m3u8
 #EXTINF:-1 group-title="Jagobd Proxy" tvg-logo="https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg",Ananda TV
@@ -311,8 +313,12 @@ http://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/SONY-MAX-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-2
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1751176014-91335358.png",&pictures
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/7dtqdPG1/smaxff.png",Set Max-3
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1751176014-91335358.png",&pictures-1
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1751176014-91335358.png",&pictures-2
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://5.imimg.com/data5/SELLER/Default/2023/3/XU/BU/RX/58311714/zee-action-advertising-services-500x500.png",Zee Action
 
 #EXTINF:-1 group-title="" tvg-logo="static.wikia.nocookie.net/logopedia/images/d/db/Anmol_Cinema_2025_Logo_%28Low_Quality%29.jpg",Zee Anmol Cinema
@@ -332,6 +338,7 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/09b7b007c267d1a78c37726c3301df5b.png",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 *https://streams.tangotv.in/B4UKADAK/ORIGIN/tracks-v1a1/mono.m3u8
+*http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/LXsZkk99/trgl2.png",Star Gold 2
 
 #EXTINF:-1 group-title="" tvg-logo="https://satkurier.pl/uploads/64326.jpg",Bollywood HD
@@ -389,9 +396,12 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 #https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ary_Digital_Logo.png/960px-Ary_Digital_Logo.png",Ary Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/94/হাম_টিভি_২০১৩.png",Hum TV
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/94/হাম_টিভি_২০১৩.png",Hum TV-1
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-#https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/94/হাম_টিভি_২০১৩.png",Hum TV-2
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/94/হাম_টিভি_২০১৩.png",Hum TV-3
+http://103.135.253.32:8080/HUM-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://w7.pngwing.com/pngs/517/623/png-transparent-pakistan-hum-tv-hum-sitaray-television-channel-others-purple-television-angle-thumbnail.png",Hum Sitaray
 http://38.101.217.46/HumSitaray/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/wNytWH6g/fsdfsghhgsshgsghj.png",MBC Bollywood
@@ -419,6 +429,7 @@ https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",B4U Music
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/tracks-v1a1/mono.m3u8
+*https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5XtMMbmy/dhjhjdfhjfdhjfjhf.png",Music India
