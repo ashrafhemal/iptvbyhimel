@@ -247,6 +247,8 @@ https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
 https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/rfm73Y9L/trvlxp.png",Travelxp HD
 http://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/QxNTnFj8/ghsgjdhdhdjdjk.png",persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang
 
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands-thumbnail.png",Animal Planet HD
@@ -414,7 +416,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/s9MGkvt7/SONYSETL.png",Sony TV-2
 
-#EXTINF:-1 group-title="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png",Sony Sab-1
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/jSXkYw75/dhgjdghdhdhh.png",Sony Sab-1
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Star_Plus_hd.jpg",Star Plus
 http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8
@@ -440,8 +442,8 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://albportal.net/images/image.png",A MUSIC TV
-https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/nhv0Ys2z/dhjhgddjjjh.jpg",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.guljaj.com/images/5365.png",1 Muzic
 http://hz1.teleport.cc/HLS/SD.m3u
 #EXTINF:-1 group-title="" tvg-logo="https://www.pngitem.com/pimgs/m/444-4449742_nrg-91-tv-logo-png-transparent-png.png",NRG 91 TV
@@ -452,11 +454,10 @@ https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png",Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN
 https://tvsen7.aynaott.com/espn/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://storage.googleapis.com/arabclicks-morexa.appspot.com/2020/11/adv_tapmad_big.png",Tapmad Live
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1280px-NHL_Network_2012.svg.png",NHL TV
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist720p.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/pt0yypD/ghdhgdhg.png",Unite8 Sports
