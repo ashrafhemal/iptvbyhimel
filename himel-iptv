@@ -170,11 +170,11 @@ http://197.149.149.18:3255/starjolsha/tracks-v1a1/mono.m3u8
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/ioDXQREluzhEseQFKF92Jw/1787328169/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha-3
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/yHdtSnZ.jpeg",Zee Bangla Sonar
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/rzMZxtmW/dghfdghdg.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5WN2C15g/gdhdhdhg.png",Zee Bangla-1
+#EXTINF:-1 group-title="" tvg-logo="https://postimg.cc/S2qd6wyQ",Zee Bangla-1
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/5WN2C15g/gdhdhdhg.png",Zee Bangla-2
+#EXTINF:-1 group-title="" tvg-logo="https://postimg.cc/S2qd6wyQ",Zee Bangla-2
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://w7.pngwing.com/pngs/405/485/png-transparent-dd-bangla-bengali-television-channel-zee-bangla-others-purple-television-violet.png",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -183,10 +183,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-1
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-2
-
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-3
-
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b1/সনি_আট_এর_নতুন_লোগো.png",Sony Aath-4
 
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png",Akash Aath-1
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v1a1/mono.m3u8
