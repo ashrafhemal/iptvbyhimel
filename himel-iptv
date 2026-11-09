@@ -201,7 +201,7 @@ http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/Z1xDrMjD/DFHGDGHDGFJDJG.png",&tv
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",Zee Anmol
-
+http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet-1
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet-2
@@ -266,8 +266,10 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVj
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick (AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/NICK/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick-2
 https://tvsen7.aynaott.com/nicklodean/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/kidschannels/images/4/43/Nick-Logo.jpg",Nick-3
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Nick_Jr._logo_2023_%28alternative%29.png",Nick Jr.(AlphaBroadway)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/3xsVjP7sk__9-tOhXPgR6w/1786039316/NICK-JR/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Nick_Jr._logo_2023_%28alternative%29.png",Nick Jr.
@@ -387,6 +389,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://epiconvh.akamaized.net/nazara/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Dd-india-hd.png",DD India HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/2y6DbJmW/hffhkjfkfkjlf.png",Hi Dost
+http://103.175.73.12:8080/live/713/713_0.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/fe2abb2de6b079ea2e97ba2902b903fb.png",Shemaroo TV
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co.com/m5VSVKfB/fghfdhghgdhgdhg.png",Aur Life-1
